@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **in Udemy**
 
-- 💬 Ask me about **React, JavaScript, Mongo, etc**
+- 💬 Ask me about **React, JavaScript, Mongo, TypeScript, CSS, HTML, SASS, LESS, MySQL, etc**
 
 - 📫 How to reach me **e.x.e_salinas3@outlook.com**
 
